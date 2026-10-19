@@ -1,0 +1,6 @@
+{
+  "name": "North Tampa Family Dental",
+  "description": "Comprehensive, compassionate family & cosmetic dentistry led by Dr. Barbara Rey in Tampa, FL. Advanced CEREC crowns, implants, OrthoFX clear aligners, and gentle care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
